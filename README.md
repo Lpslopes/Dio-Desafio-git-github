@@ -1,2 +1,2 @@
 # Dio-Desafio-git-github
-Crinado um repositório do desafio da Dio.
+Criando um repositório do desafio da Dio.
