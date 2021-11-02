@@ -1,0 +1,4 @@
+Liguagem a estudar:
+	Android
+	Front end
+	Backend
